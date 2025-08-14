@@ -1,3 +1,7 @@
+ShopNest (Ongoing)
+A React-based e-commerce web application designed to showcase a modern online shopping experience. ShopNest features dynamic product listings, detailed product pages, a functional shopping cart, and category-based filtering — all powered by a mock API. The project focuses on practicing React fundamentals including component-based architecture, state management, props drilling, conditional rendering, and API integration.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
